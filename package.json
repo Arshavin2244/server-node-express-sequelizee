@@ -12,7 +12,7 @@
     "express",
     "sequelize"
   ],
-  "author": "Cecep Solihin Yusup",
+  "author": "Arshavin Benaya Vichario",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.3",
